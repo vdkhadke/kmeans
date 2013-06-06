@@ -1,4 +1,4 @@
 kmeans
 ======
 
-Implementation of K-means algorithm for B-565 class.
+Implementation of K-means algorithm for Data Mining class.
